@@ -53,10 +53,12 @@ Correlation and Trend Analysis:
 
 Identifying correlations between customer demographics and purchasing behavior.
 Analysis of trends over time.
+
 Tools and Technologies
 Python: For data manipulation and analysis.
 Pandas: For data processing and analysis.
 Matplotlib/Seaborn: For data visualization.
 Jupyter Notebook: For interactive data analysis.
+
 Conclusion
 This analysis provides valuable insights into customer demographics, purchasing behavior, and the effectiveness of marketing campaigns. The findings can help in making informed business decisions to optimize marketing strategies and increase offer acceptance rates.
